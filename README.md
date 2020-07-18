@@ -3,11 +3,11 @@
 
 ## About Me
 
-Nowdays I'm frontend developer, but in the past I was backend developer, even desktop developer.
+Nowadays I'm a frontend developer, but in the past, I was a backend developer, even a desktop developer.
 
-I'm working from 2018 at [Indra](http://indracompany.com/en) in the Transport departament, as Anguar Lead developer, with some developer down me.
+I'm working from 2018 at [Indra](http://indracompany.com/en) in the Transport department, as Angular Lead developer, with some developer down me.
 
-To see more of my work, you can go to my [LinkedIn profile](http://linkedin.com/in/juan-antonio-moreno-valderrama).
+To see more of my work, you can go to my [LinkedIn profile](http://linkedin.com/in/juan-antonio-moreno-valderrama)
 
 ## Technologies
 

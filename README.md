@@ -13,19 +13,19 @@ To see more of my work, you can go to my [LinkedIn profile](http://linkedin.com/
 
 ### Web
 <p align="left">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="48px" height="48px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="48px" height="48px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="48px" height="48px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="48px" height="48px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="Angular" width="48px" height="48px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="48px" height="48px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-plain.svg" alt="PHP" width="48px" height="48px"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="48px" height="48px"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="48px" height="48px"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="48px" height="48px"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="48px" height="48px"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="Angular" width="48px" height="48px"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="48px" height="48px"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-plain.svg" alt="PHP" width="48px" height="48px"/>
 </p>
 
 ### Generic
 <p align="left">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="C#" width="48px" height="48px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java" width="48px" height="48px"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="C#" width="48px" height="48px"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="Java" width="48px" height="48px"/>
 </p>
 
 ## Contact

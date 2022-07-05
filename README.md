@@ -22,7 +22,7 @@ To see more of my work, you can go to my [LinkedIn profile](http://linkedin.com/
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
 ![Nest](https://img.shields.io/badge/nestjs%20-%23E0234E?&style=plastic&logo=nestjs&logoColor=white)
-![Jest](https://img.shields.io/badge/nestjs%20-%23E0234E?&style=plastic&logo=jest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest%20-%23E0234E?&style=plastic&logo=jest&logoColor=white)
 
 ### Generic
 

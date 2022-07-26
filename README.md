@@ -4,7 +4,7 @@
 
 Nowadays I'm a frontend developer, but in the past, I was a backend developer, even a desktop developer.
 
-I'm working from 2018 at [Plytix](https://www.plytix.com) as Angular developer.
+I'm working from 2021 at [Plytix](https://www.plytix.com) as Angular developer.
 
 To see more of my work, you can go to my [LinkedIn profile](http://linkedin.com/in/juan-antonio-moreno-valderrama)
 
